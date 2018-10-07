@@ -21,8 +21,12 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   rack
   rack-test
   rspec
+
+BUNDLED WITH
+   1.16.5
